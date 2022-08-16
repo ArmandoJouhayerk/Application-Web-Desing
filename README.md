@@ -12,3 +12,5 @@ Materia: Desarrollo de Aplicaciones Web
 
 Profesor(a): Celina Robles Montiel 
 
+Markdown es un lenguaje de marcado, sirve para generar codumentos a partir de sintaxis. 
+Puede generar documentos html y xml.
